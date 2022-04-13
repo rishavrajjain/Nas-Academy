@@ -1,11 +1,10 @@
-# nas_academy_assignment_application
-
-A new Flutter project.
+# Nas_Academy_assignment_application
 
 ## File Structure
 
 The application uses Provider for managing state and is structured into model and page.
-Click the add button to add elements to the list
+Click the add button to add elements to the list and the items gets added to the list
+
 
 ## Getting Started
 
